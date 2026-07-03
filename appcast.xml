@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Balaclava</title>
+    <description>Balaclava app updates</description>
+    <language>en</language>
+    <item>
+      <title>Balaclava 0.1.0 (23)</title>
+      <pubDate>Thu, 02 Jul 2026 20:28:54 -0600</pubDate>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        First auto-update-capable release. Carries the transcription-quality roadmap: dual-channel capture with echo cancellation, structural You-attribution, Whisper large-v3-turbo accuracy engine, AI transcript refinement with chapters, and persistent speaker profiles.
+      ]]></description>
+      <enclosure
+        url="https://github.com/washington8777/balaclava-releases/releases/download/b23/Balaclava-0.1.0-build23.zip"
+        sparkle:version="23"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="5kW8PisGnRyeZ2T+yykwt485CaKbIGTkivF6LHc6XQBLiKxmCGA2/Jwnr+YxZW0IjM/j2gs3fhEdqZAAP6/qCw==" length="19457813"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
