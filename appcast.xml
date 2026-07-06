@@ -5,6 +5,20 @@
     <description>Balaclava app updates</description>
     <language>en</language>
     <item>
+      <title>Balaclava 0.1.0 (24)</title>
+      <pubDate>Mon, 06 Jul 2026 15:59:22 -0600</pubDate>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        Consecutive statements from the same speaker are now merged into a single transcript entry, so one person's turn no longer gets split across several rows. Toggle under Settings → Transcription.
+      ]]></description>
+      <enclosure
+        url="https://github.com/washington8777/balaclava-releases/releases/download/b24/Balaclava-0.1.0-build24.zip"
+        sparkle:version="24"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="SmLrAE1QALiAks6xDQ5FHhFheBsMLQ+3YSfrfBC3ulsZ51TCEHssqNhEuzTpNYLzbD8buhcEOG9bMxc661SmBw==" length="19472368"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Balaclava 0.1.0 (23)</title>
       <pubDate>Thu, 02 Jul 2026 20:28:54 -0600</pubDate>
       <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
