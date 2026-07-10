@@ -1,0 +1,14 @@
+    <item>
+      <title>Balaclava 0.1.0 (25)</title>
+      <pubDate>Fri, 10 Jul 2026 15:55:40 -0600</pubDate>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        Recording no longer stops when the audio route changes mid-session — connecting AirPods, plugging in an interface, or switching output device now keeps capturing without interruption.
+      ]]></description>
+      <enclosure
+        url="https://github.com/washington8777/balaclava-releases/releases/download/b25/Balaclava-0.1.0-build25.zip"
+        sparkle:version="25"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="5/zSz0QKcQzHVlwGqylP+xaWIyzOUoQ8uCv1VlBjg27qaJtcmB0vbphIqlA5JAmxfTvm9K9H2izfx4o/yHQODw==" length="19474306"
+        type="application/octet-stream" />
+    </item>
